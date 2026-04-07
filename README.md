@@ -19,17 +19,17 @@ Dataset Details:
 📌 Rows: 1000
 📌 Columns: 10
  
-  Features:
-    * Year
-    * State
-    * Internet Users (Millions)
-    * Data Usage per User (GB/month)
-    * Network Type
-    * Cost per GB (₹)
-    * Average Speed (Mbps)
-    * Urban/Rural
-    * Device Type
-    * Age Group
+ Features:
+   * Year
+   * State
+   * Internet Users (Millions)
+   * Data Usage per User (GB/month)
+   * Network Type
+   * Cost per GB (₹)
+   * Average Speed (Mbps)
+   * Urban/Rural
+   * Device Type
+   * Age Group
 
 Technologies Used
  * Python 
