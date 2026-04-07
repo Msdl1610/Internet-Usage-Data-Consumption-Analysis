@@ -18,6 +18,7 @@ Objectives
 Dataset Details
 📌 Rows: 1000
 📌 Columns: 10
+ 
   Features:
     * Year
     * State
@@ -67,7 +68,7 @@ Key Insights
   * Lower data cost increases internet consumption 
 
 Conclusion:
-  The analysis shows that India is moving towards a digitally connected future. Affordable internet, improved network technologies, and increasing smartphone usage are key drivers of this growth.
+The analysis shows that India is moving towards a digitally connected future. Affordable internet, improved network technologies, and increasing smartphone usage are key drivers of this growth.
   
   The insights from this project can help:
   
