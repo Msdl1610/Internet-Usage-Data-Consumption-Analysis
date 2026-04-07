@@ -1,0 +1,1001 @@
+Year,State,Internet Users,Data Usage per User,Network Type,Cost per GB,Average Speed,Urban/Rural,Device Type,Age Group
+2021,Telangana,66,27.31,5G,5.32,70.28,Urban,Mobile,26-35
+2018,Kerala,88,20.45,3G,3.38,66.17,Rural,Mobile,26-35
+2025,Delhi,66,17.25,4G,6.61,128.95,Urban,Mobile,18-25
+2022,UP,115,4.22,4G,7.37,74.41,Urban,Desktop,50+
+2019,Kerala,131,13.96,3G,10.79,33.96,Urban,Desktop,36-50
+2021,Karnataka,11,14.35,4G,10.56,121.31,Urban,Desktop,36-50
+2024,Telangana,88,26.07,4G,2.91,163.8,Urban,Mobile,18-25
+2017,Telangana,136,16.85,5G,7.14,79.51,Urban,Mobile,18-25
+2021,Telangana,138,12.03,3G,4.36,30.79,Urban,Mobile,26-35
+2025,Karnataka,62,29.33,3G,4.04,43.35,Rural,Desktop,26-35
+2025,Karnataka,26,4.21,3G,12.75,51.31,Urban,Mobile,50+
+2022,Karnataka,131,13.25,3G,2.54,63.48,Urban,Mobile,18-25
+2019,Karnataka,7,2.22,3G,7.45,130.35,Rural,Desktop,50+
+2018,Telangana,131,22.46,4G,4.19,122.18,Rural,Desktop,18-25
+2022,Telangana,45,27.62,5G,13.43,140.74,Rural,Desktop,36-50
+2022,Maharashtra,110,9.12,3G,9.24,75.69,Rural,Mobile,18-25
+2017,Kerala,18,25.89,5G,5.01,165.68,Urban,Mobile,18-25
+2020,UP,16,9.47,5G,8.53,44.8,Rural,Mobile,36-50
+2019,Delhi,91,27.41,4G,11.51,96.46,Rural,Desktop,18-25
+2016,Telangana,16,22.86,3G,14.46,161.18,Urban,Desktop,50+
+2022,Delhi,145,24.34,4G,4.87,40.13,Urban,Desktop,26-35
+2020,Kerala,29,1.52,3G,13.52,26.42,Urban,Desktop,26-35
+2016,Kerala,49,28.92,4G,14.15,177.32,Rural,Mobile,50+
+2019,Delhi,126,22.07,5G,13.91,71.87,Urban,Mobile,36-50
+2015,Telangana,59,9.84,3G,10.26,138.35,Rural,Mobile,18-25
+2024,Delhi,104,25.05,5G,10.19,9.94,Urban,Mobile,50+
+2020,Maharashtra,140,9.16,5G,7.24,139.56,Urban,Mobile,26-35
+2023,Tamil Nadu,123,26.31,4G,11.78,66.64,Rural,Mobile,26-35
+2015,Telangana,57,4.26,3G,8.91,15.87,Urban,Mobile,50+
+2025,Telangana,36,21.41,5G,10.81,123.91,Urban,Mobile,26-35
+2025,UP,55,16.68,4G,7.57,51.96,Urban,Desktop,50+
+2024,Karnataka,48,3.8,3G,11.51,80.43,Urban,Desktop,26-35
+2017,Tamil Nadu,86,8.01,3G,12.72,20.71,Urban,Mobile,50+
+2021,Kerala,41,1.36,5G,3.9,33.7,Rural,Desktop,18-25
+2018,Telangana,100,14.59,3G,12.83,63.11,Rural,Mobile,18-25
+2023,Delhi,60,9.74,5G,9.02,22.5,Urban,Mobile,18-25
+2017,Tamil Nadu,109,18.35,3G,12.98,182.61,Rural,Desktop,18-25
+2019,UP,63,9.62,4G,7.61,6.18,Rural,Mobile,26-35
+2017,Kerala,135,9.7,5G,6.93,99.35,Rural,Mobile,36-50
+2021,Karnataka,39,22.55,5G,13.9,29.03,Urban,Mobile,50+
+2019,Karnataka,97,2.4,3G,5.27,65,Urban,Mobile,36-50
+2023,UP,101,27.18,3G,12.97,185.58,Urban,Mobile,26-35
+2021,UP,139,25.72,5G,8.29,36.53,Rural,Mobile,26-35
+2016,Delhi,80,20.37,3G,8.68,193.34,Rural,Mobile,36-50
+2018,Telangana,53,18.2,4G,6.01,45.13,Urban,Desktop,36-50
+2023,Karnataka,98,26.88,3G,9.45,149.61,Urban,Desktop,26-35
+2016,Kerala,28,6.37,4G,6.23,111.6,Rural,Mobile,26-35
+2024,Tamil Nadu,41,3.29,4G,2.51,177.47,Rural,Desktop,50+
+2023,Kerala,8,7.95,4G,5.54,113.03,Urban,Mobile,18-25
+2024,Maharashtra,112,24.04,4G,2.08,109.24,Rural,Mobile,18-25
+2019,Maharashtra,130,2.01,4G,14.72,43.11,Rural,Mobile,50+
+2016,UP,24,17.9,3G,14.55,37.41,Rural,Mobile,36-50
+2018,Delhi,54,29.87,4G,7.14,183.72,Rural,Desktop,26-35
+2021,Maharashtra,100,25.82,3G,11.47,68.93,Rural,Desktop,36-50
+2022,Karnataka,109,16.12,4G,6.5,77.56,Rural,Desktop,18-25
+2017,Kerala,121,2.85,5G,10.72,153.17,Rural,Desktop,18-25
+2015,Kerala,102,25.11,4G,12.47,71.07,Urban,Mobile,36-50
+2018,UP,70,18.37,5G,14.31,190.65,Urban,Desktop,18-25
+2016,Telangana,83,4.33,4G,7.2,148.9,Rural,Mobile,26-35
+2022,Telangana,10,3.72,4G,12.18,121.5,Rural,Mobile,50+
+2018,Tamil Nadu,43,27.38,4G,5.46,176.77,Rural,Desktop,36-50
+2016,UP,119,20.41,5G,14.87,14.67,Urban,Mobile,26-35
+2020,Tamil Nadu,129,25.05,5G,2.34,55.13,Urban,Desktop,26-35
+2020,Telangana,16,26.49,4G,9.85,95.68,Rural,Desktop,18-25
+2024,UP,135,17.58,3G,10.57,49.26,Urban,Desktop,26-35
+2018,UP,22,16.01,4G,10.94,150.06,Rural,Desktop,36-50
+2020,UP,44,13.48,5G,3.57,184.25,Rural,Desktop,26-35
+2016,Telangana,25,10.19,4G,14.2,87.64,Rural,Mobile,50+
+2024,Tamil Nadu,147,13.6,5G,4.36,71.72,Rural,Desktop,26-35
+2016,Tamil Nadu,103,23.44,5G,10.1,192.5,Rural,Desktop,26-35
+2024,UP,30,18.46,5G,4.89,91.75,Rural,Mobile,50+
+2018,Maharashtra,12,26.88,4G,5.99,100.36,Rural,Desktop,26-35
+2022,Delhi,104,13.86,5G,9.1,73.57,Urban,Desktop,26-35
+2021,Telangana,91,18.61,5G,7.42,182.36,Rural,Mobile,18-25
+2023,Delhi,46,19.31,4G,4.08,115.95,Urban,Mobile,36-50
+2022,Delhi,18,18.16,5G,4.22,153.62,Rural,Desktop,18-25
+2019,Tamil Nadu,82,21.38,4G,7.44,163.3,Rural,Mobile,36-50
+2016,Tamil Nadu,6,7.89,5G,11.84,71.66,Urban,Desktop,50+
+2019,Maharashtra,123,15.86,3G,13.67,89.57,Urban,Mobile,50+
+2022,Delhi,41,4.02,3G,3.09,170.45,Rural,Desktop,50+
+2024,Delhi,73,12.15,5G,7.11,75.83,Urban,Desktop,36-50
+2023,UP,45,15.14,3G,3.3,159.82,Rural,Desktop,36-50
+2023,Tamil Nadu,66,19.91,4G,2.22,188.49,Rural,Mobile,36-50
+2015,Delhi,64,28.57,3G,10.6,126.53,Urban,Desktop,50+
+2023,Kerala,129,18.42,5G,9.83,149.62,Urban,Mobile,36-50
+2021,Maharashtra,115,22.56,5G,4.12,161.99,Urban,Desktop,26-35
+2023,Kerala,18,15.68,4G,5.04,169.78,Urban,Desktop,18-25
+2022,Kerala,88,19.39,5G,2.31,82.04,Rural,Desktop,50+
+2015,Telangana,134,3.06,4G,12.85,15,Urban,Desktop,18-25
+2022,Telangana,74,8.38,3G,14.67,83.37,Urban,Desktop,26-35
+2022,Maharashtra,149,11.49,3G,3.76,136.38,Urban,Mobile,36-50
+2025,Kerala,127,14.7,4G,5.01,92.82,Urban,Mobile,18-25
+2017,Delhi,93,2.32,4G,13.29,151.05,Urban,Mobile,26-35
+2015,Tamil Nadu,32,5.06,5G,14.04,74.61,Rural,Desktop,26-35
+2022,Maharashtra,70,9.03,3G,7.46,128.78,Rural,Desktop,18-25
+2017,UP,9,29.17,4G,2.66,41.35,Urban,Mobile,50+
+2017,Kerala,49,10.61,3G,2.51,151.13,Urban,Desktop,18-25
+2015,Maharashtra,51,14.98,4G,9.46,111.41,Rural,Desktop,50+
+2025,Karnataka,35,6.69,3G,7.11,44.79,Urban,Desktop,36-50
+2019,Karnataka,143,18.71,5G,2.37,61.92,Rural,Mobile,50+
+2024,Telangana,14,9.14,3G,9.58,150.98,Rural,Mobile,36-50
+2021,Tamil Nadu,122,7,3G,2.15,99.11,Urban,Mobile,18-25
+2024,Delhi,18,15.98,3G,12.24,47.13,Rural,Mobile,36-50
+2023,Tamil Nadu,84,1.16,3G,5.98,193.62,Urban,Mobile,26-35
+2021,Tamil Nadu,97,1.22,3G,2.52,144.45,Urban,Desktop,36-50
+2023,Tamil Nadu,14,7.35,5G,9.65,191.64,Rural,Desktop,50+
+2022,Tamil Nadu,80,2.06,4G,7.17,88.29,Rural,Desktop,50+
+2016,UP,98,4.13,3G,14.66,97.64,Urban,Desktop,50+
+2015,UP,109,10.83,5G,9.07,180.1,Rural,Mobile,36-50
+2021,Telangana,5,24.27,3G,5.58,107.38,Urban,Mobile,50+
+2021,Maharashtra,137,17.59,3G,11.22,142.92,Rural,Desktop,50+
+2022,Karnataka,24,15.87,4G,5.53,54.17,Rural,Mobile,26-35
+2019,Tamil Nadu,12,9.51,3G,13.76,92.11,Urban,Desktop,36-50
+2017,Telangana,5,28.02,5G,6.87,29.07,Urban,Desktop,26-35
+2022,Maharashtra,61,12.51,5G,9.15,45.17,Urban,Desktop,50+
+2020,Karnataka,68,3.53,4G,2.66,5.18,Rural,Desktop,50+
+2025,Kerala,122,18.89,3G,7.54,12.66,Urban,Mobile,50+
+2017,Delhi,32,4.3,5G,12.82,195.57,Urban,Desktop,36-50
+2015,UP,125,11.01,3G,12.47,52.26,Rural,Mobile,18-25
+2017,Kerala,111,15.71,3G,4.92,134.35,Rural,Desktop,50+
+2019,Karnataka,53,26.35,3G,4.94,168.62,Urban,Desktop,50+
+2017,Kerala,124,15.31,4G,12.62,112.38,Urban,Desktop,50+
+2015,Delhi,48,21.37,3G,14.1,34.86,Urban,Desktop,50+
+2019,Telangana,60,29.79,5G,3.24,146.98,Urban,Mobile,36-50
+2024,Karnataka,115,4.81,3G,7.85,122.05,Rural,Desktop,18-25
+2021,Kerala,138,8.97,5G,6.39,147.59,Rural,Mobile,18-25
+2021,UP,112,12.44,3G,13.32,155.1,Urban,Desktop,18-25
+2025,UP,118,13.23,5G,3.09,195.21,Urban,Desktop,50+
+2023,Maharashtra,82,12.92,5G,4.74,116.84,Urban,Desktop,50+
+2024,Kerala,134,27.32,3G,11.78,71.62,Rural,Mobile,18-25
+2024,Tamil Nadu,41,21.71,3G,2.67,131.45,Urban,Desktop,18-25
+2017,Kerala,24,18.63,5G,8.4,18.35,Urban,Desktop,50+
+2021,Telangana,30,9.97,4G,7.75,179.99,Rural,Desktop,50+
+2015,Karnataka,33,24.89,3G,6.35,28.28,Rural,Desktop,26-35
+2018,Karnataka,5,28.7,4G,7.13,68.93,Urban,Desktop,26-35
+2018,Telangana,123,24.81,3G,8.89,164.07,Urban,Mobile,26-35
+2019,Kerala,39,1.05,3G,4.1,121.48,Rural,Mobile,18-25
+2021,Telangana,63,19.46,3G,9.44,81.76,Urban,Desktop,36-50
+2021,Delhi,73,2.48,3G,12.47,97.32,Urban,Desktop,50+
+2025,Telangana,16,8.47,4G,11.88,171.64,Rural,Mobile,26-35
+2018,UP,24,2.73,3G,4,71.3,Rural,Desktop,36-50
+2021,Telangana,47,18.51,5G,3.94,174.58,Rural,Mobile,50+
+2025,Karnataka,130,20.91,5G,5.49,22.19,Urban,Desktop,36-50
+2017,UP,54,4.32,4G,6.69,156.48,Rural,Desktop,18-25
+2020,Karnataka,33,12.13,3G,7.31,170.27,Rural,Mobile,18-25
+2016,Maharashtra,43,14.23,5G,10.84,40.45,Urban,Desktop,18-25
+2024,Tamil Nadu,42,11.7,4G,2.74,88.92,Urban,Mobile,26-35
+2023,Karnataka,88,4.51,3G,2.45,37.27,Rural,Mobile,50+
+2019,UP,132,13.15,5G,7.09,142.79,Rural,Mobile,18-25
+2020,Maharashtra,130,22.78,5G,11.06,109.39,Urban,Desktop,26-35
+2018,Karnataka,49,3.06,4G,4.51,128.89,Urban,Mobile,26-35
+2025,Delhi,56,3.33,3G,10.34,43.31,Rural,Mobile,26-35
+2024,Telangana,84,11.29,3G,5.38,46.29,Rural,Desktop,26-35
+2021,Tamil Nadu,128,28.31,5G,13.52,13.09,Urban,Desktop,18-25
+2023,Karnataka,123,20.39,5G,13.64,67.8,Rural,Desktop,26-35
+2021,Maharashtra,12,20.68,5G,5.86,114.15,Urban,Desktop,18-25
+2015,Delhi,89,11.5,3G,4.99,172.3,Rural,Desktop,18-25
+2015,Kerala,133,18.22,4G,7.35,135.05,Urban,Desktop,26-35
+2023,Maharashtra,12,1.29,4G,5.13,89.9,Urban,Mobile,18-25
+2025,Telangana,100,19.45,3G,10.74,190.86,Rural,Desktop,50+
+2023,Maharashtra,106,27.49,4G,12.74,145.25,Rural,Mobile,50+
+2018,Delhi,9,18.76,5G,10.75,186.38,Urban,Desktop,36-50
+2023,Maharashtra,90,26.34,4G,12.72,107.88,Rural,Mobile,50+
+2017,Delhi,38,22,4G,7.16,55.49,Rural,Mobile,18-25
+2021,Karnataka,59,4.5,4G,4.03,15.3,Rural,Desktop,18-25
+2020,Delhi,123,27.17,5G,11.59,146.59,Urban,Desktop,50+
+2022,Delhi,118,2.93,3G,6.69,28.65,Rural,Mobile,26-35
+2025,Tamil Nadu,149,16.49,5G,10.73,64.04,Rural,Desktop,26-35
+2023,Delhi,30,5.12,3G,5.52,108.83,Urban,Desktop,18-25
+2019,Delhi,140,1.34,3G,3.06,115.06,Rural,Mobile,26-35
+2015,Kerala,51,13.24,3G,14.9,122.11,Rural,Mobile,36-50
+2017,Karnataka,117,9.56,4G,4.03,37.42,Urban,Mobile,36-50
+2024,Telangana,80,15.09,4G,14.85,79.05,Urban,Desktop,50+
+2022,Tamil Nadu,76,17.74,3G,14.7,125.35,Rural,Desktop,50+
+2025,Kerala,93,2.27,3G,12.32,194.11,Rural,Desktop,26-35
+2020,UP,50,4.57,4G,10.57,146.89,Urban,Desktop,18-25
+2022,Karnataka,37,17.2,5G,9.51,184.91,Urban,Mobile,50+
+2023,Karnataka,5,10.95,3G,13.26,153.63,Rural,Desktop,36-50
+2018,UP,35,22.15,5G,5.76,120.38,Rural,Mobile,50+
+2015,Telangana,146,19.92,4G,8.08,42.44,Rural,Desktop,50+
+2015,Delhi,57,25.52,3G,10.05,135,Urban,Desktop,36-50
+2024,Kerala,52,21.08,5G,7.35,126.56,Rural,Mobile,18-25
+2018,Maharashtra,73,13.47,5G,7.56,122.48,Urban,Desktop,50+
+2021,Tamil Nadu,109,20.52,5G,6.29,100.51,Urban,Desktop,50+
+2016,Maharashtra,94,8.99,4G,9.34,108.09,Urban,Mobile,50+
+2017,UP,67,9.88,4G,13.06,70.22,Rural,Desktop,26-35
+2015,Karnataka,77,23.88,5G,4.62,106.27,Rural,Mobile,50+
+2019,Telangana,93,13.95,5G,14.15,43.52,Rural,Mobile,36-50
+2015,Karnataka,17,24.15,4G,10.96,162.01,Urban,Mobile,18-25
+2022,Tamil Nadu,77,24.85,5G,12.7,41.23,Rural,Mobile,18-25
+2015,Karnataka,81,25.87,5G,9.23,21.57,Urban,Desktop,36-50
+2025,Karnataka,72,27.58,4G,12.13,90.07,Urban,Desktop,26-35
+2015,Tamil Nadu,102,13.5,5G,2.21,133.37,Urban,Desktop,36-50
+2016,Kerala,129,10.25,5G,12.64,90.35,Urban,Mobile,18-25
+2016,Kerala,106,17.88,5G,2.52,58.97,Urban,Desktop,36-50
+2020,Tamil Nadu,136,11.76,4G,13.57,113.84,Urban,Desktop,26-35
+2021,Telangana,106,18.43,5G,14.9,72.67,Rural,Desktop,18-25
+2019,UP,23,21.46,4G,5.82,186.91,Urban,Desktop,26-35
+2015,Karnataka,86,20.96,4G,4.73,184.92,Rural,Mobile,36-50
+2015,Telangana,145,11.86,3G,11.95,102.96,Urban,Mobile,50+
+2017,Karnataka,27,5.84,3G,5.29,68.94,Rural,Desktop,36-50
+2016,UP,87,13.49,5G,13.25,148.74,Rural,Mobile,26-35
+2019,Kerala,113,5.14,4G,3.34,12.16,Rural,Desktop,36-50
+2024,Telangana,79,26.81,3G,3.64,97.58,Rural,Desktop,50+
+2020,Delhi,133,11.03,5G,14.73,70.58,Urban,Desktop,26-35
+2021,Delhi,92,5.48,3G,10.76,184.5,Urban,Mobile,36-50
+2018,Delhi,58,1.74,3G,13.01,7.34,Urban,Desktop,26-35
+2021,Kerala,93,19.73,4G,6.22,112.8,Urban,Mobile,26-35
+2025,Kerala,147,19.47,4G,10.79,149.43,Rural,Mobile,18-25
+2022,UP,69,10.88,3G,9.73,99.58,Rural,Desktop,18-25
+2025,Karnataka,80,3.08,3G,9.84,21.65,Rural,Mobile,26-35
+2015,UP,147,12.88,4G,10.87,194.63,Urban,Mobile,36-50
+2020,UP,64,10.03,5G,9.48,106.01,Rural,Desktop,36-50
+2022,Kerala,97,20.64,4G,7.58,124.77,Urban,Mobile,36-50
+2019,Delhi,53,18.57,3G,5.59,51.14,Rural,Mobile,50+
+2018,Maharashtra,39,11.57,5G,11.99,99.28,Rural,Desktop,26-35
+2016,Karnataka,106,7.32,3G,4.94,88.68,Rural,Desktop,26-35
+2020,Kerala,15,29.65,5G,11,19.6,Rural,Mobile,50+
+2020,Delhi,103,14.17,3G,5.03,25.7,Rural,Desktop,26-35
+2025,Telangana,114,20.96,5G,10.13,168.31,Urban,Desktop,26-35
+2015,Maharashtra,78,5.08,5G,11.71,51.76,Rural,Mobile,50+
+2023,Maharashtra,13,15.08,3G,4.84,43.02,Urban,Mobile,18-25
+2025,Kerala,7,1.8,5G,2.78,103.46,Urban,Desktop,26-35
+2020,Tamil Nadu,89,15.66,4G,3.7,154.91,Urban,Mobile,50+
+2017,Karnataka,30,28.96,3G,9.88,17.08,Urban,Desktop,36-50
+2018,Maharashtra,76,12.14,4G,13.04,117.48,Urban,Desktop,18-25
+2025,Kerala,52,2.13,3G,2.58,28.25,Urban,Mobile,36-50
+2018,Kerala,121,1.9,5G,11.54,12.11,Urban,Mobile,26-35
+2017,Delhi,16,12.25,5G,6.44,15.29,Urban,Desktop,18-25
+2024,Telangana,137,5.64,5G,8.22,167.66,Rural,Desktop,50+
+2017,Tamil Nadu,52,1.68,3G,14.08,28,Rural,Desktop,26-35
+2017,Karnataka,41,22.93,4G,6.32,13.8,Urban,Desktop,50+
+2018,UP,48,14.3,4G,8.05,90.39,Urban,Mobile,18-25
+2021,Telangana,19,9.39,3G,2.18,169.58,Urban,Desktop,36-50
+2018,Telangana,47,27.1,3G,3.06,56.17,Rural,Mobile,26-35
+2023,Delhi,91,4.37,4G,5.36,87.23,Rural,Mobile,26-35
+2015,Maharashtra,74,28.72,4G,2.36,12.78,Urban,Desktop,50+
+2022,Maharashtra,50,10.11,4G,10.21,92.57,Urban,Mobile,18-25
+2021,Delhi,112,26.76,4G,7.54,117.63,Rural,Mobile,50+
+2016,Kerala,127,18.49,3G,9.13,116.33,Rural,Desktop,18-25
+2022,Maharashtra,25,24.97,3G,4.27,69.82,Urban,Mobile,26-35
+2015,Tamil Nadu,111,29.54,5G,5.85,66.53,Urban,Mobile,18-25
+2025,Karnataka,84,9.36,4G,10.63,25.79,Urban,Desktop,26-35
+2023,Telangana,51,28.87,5G,14.55,76.53,Urban,Desktop,18-25
+2023,Telangana,121,12.29,3G,2.66,24.4,Rural,Desktop,36-50
+2016,Tamil Nadu,128,12.18,3G,13.57,154.49,Rural,Desktop,18-25
+2021,Maharashtra,147,10.87,5G,9.5,193.42,Urban,Desktop,36-50
+2024,Telangana,29,16.7,4G,9.33,194.16,Urban,Desktop,18-25
+2017,UP,40,5.47,4G,8.5,173.69,Urban,Desktop,18-25
+2021,Karnataka,55,17.06,4G,2.9,122.15,Rural,Mobile,50+
+2024,Karnataka,19,16.71,4G,3.17,141.67,Urban,Mobile,50+
+2023,Telangana,72,23.1,5G,9.81,60.62,Urban,Desktop,26-35
+2018,Delhi,25,25.18,5G,6.43,128,Urban,Mobile,50+
+2015,Telangana,145,13.77,3G,13.92,93.85,Rural,Mobile,18-25
+2016,Delhi,23,9.77,4G,7.29,98.99,Urban,Desktop,50+
+2015,Telangana,38,8.52,4G,3.86,152.77,Rural,Mobile,18-25
+2019,UP,82,6.64,4G,11.29,59.97,Urban,Desktop,36-50
+2019,Kerala,129,2.67,5G,5.81,67.02,Urban,Mobile,18-25
+2025,Karnataka,121,10.93,4G,8.83,185.31,Urban,Desktop,26-35
+2021,Telangana,56,8.84,5G,11.07,15.96,Rural,Mobile,36-50
+2023,UP,31,29.03,4G,13.7,99.7,Urban,Mobile,26-35
+2023,Delhi,39,17.17,4G,12.3,183,Urban,Mobile,26-35
+2017,Delhi,140,11.07,3G,10.79,124.02,Rural,Desktop,26-35
+2017,Karnataka,148,17.83,4G,10.84,111.55,Rural,Mobile,50+
+2017,Tamil Nadu,110,5.04,4G,14.3,53.7,Rural,Mobile,26-35
+2018,Telangana,6,13.88,3G,5.85,71.94,Urban,Desktop,36-50
+2022,Maharashtra,81,19.16,5G,2.01,171.15,Rural,Desktop,18-25
+2020,Delhi,136,15.18,5G,5.54,114.05,Urban,Mobile,26-35
+2022,Kerala,94,12.65,4G,4.83,105.37,Rural,Mobile,36-50
+2015,Kerala,93,29.82,5G,10.6,24.42,Rural,Mobile,26-35
+2022,Delhi,98,26.53,4G,10.24,8.13,Rural,Mobile,18-25
+2018,Tamil Nadu,11,19.08,3G,9.71,192.92,Urban,Desktop,36-50
+2025,Tamil Nadu,99,17.51,3G,2.21,78.51,Urban,Mobile,36-50
+2015,UP,112,19,4G,11.47,122.63,Urban,Mobile,18-25
+2022,Kerala,78,6.84,3G,6.21,20.54,Urban,Desktop,36-50
+2018,UP,43,12.46,3G,10.65,138.21,Urban,Mobile,18-25
+2020,Kerala,145,2.14,4G,9.24,186.85,Urban,Mobile,36-50
+2022,Telangana,75,14.79,4G,6.46,117.25,Urban,Mobile,36-50
+2018,Telangana,60,16.75,3G,3.75,29.59,Urban,Desktop,18-25
+2017,Maharashtra,46,7.6,5G,3.23,118.44,Urban,Desktop,18-25
+2023,Telangana,40,28.96,5G,12.81,154.44,Rural,Mobile,36-50
+2017,Maharashtra,88,27.37,4G,13.94,84.25,Rural,Mobile,36-50
+2023,Telangana,122,21.94,4G,10.45,176.57,Urban,Desktop,18-25
+2016,Karnataka,11,16.47,5G,3.34,131.49,Urban,Mobile,50+
+2016,Telangana,58,26.23,3G,7.23,180.35,Urban,Mobile,18-25
+2016,UP,133,4.79,5G,11.48,126.58,Urban,Desktop,36-50
+2020,Delhi,124,23.92,5G,12.14,30.6,Rural,Desktop,36-50
+2017,UP,110,4.62,5G,3.54,65.39,Rural,Desktop,36-50
+2023,Delhi,51,24.03,5G,2,44.35,Urban,Mobile,18-25
+2018,Tamil Nadu,127,9,4G,11.26,182.22,Rural,Mobile,36-50
+2015,UP,145,26.44,4G,6.64,153.28,Rural,Mobile,50+
+2018,Tamil Nadu,123,28.38,3G,5.31,136.9,Urban,Mobile,26-35
+2015,Maharashtra,122,5.32,3G,2.17,63.69,Urban,Desktop,50+
+2019,Maharashtra,25,14.42,3G,9.02,40.89,Urban,Mobile,18-25
+2018,Karnataka,141,29.45,3G,13.06,152.51,Urban,Mobile,36-50
+2022,Telangana,30,15.02,5G,14.45,97.46,Rural,Desktop,18-25
+2022,UP,13,26.04,4G,9.35,49.03,Urban,Desktop,26-35
+2021,Tamil Nadu,19,18.07,4G,8.69,125.24,Rural,Mobile,18-25
+2017,Delhi,14,11.88,3G,3.11,12.87,Urban,Desktop,36-50
+2015,Maharashtra,126,9.29,3G,9.14,68.6,Rural,Desktop,26-35
+2015,Telangana,125,6.89,5G,6.94,96.37,Urban,Mobile,26-35
+2025,Maharashtra,129,23.09,5G,9.89,33.85,Urban,Mobile,36-50
+2017,Delhi,76,12.21,3G,7.05,197.01,Rural,Mobile,36-50
+2020,Telangana,53,15.83,4G,5.12,45.77,Rural,Mobile,36-50
+2021,Telangana,95,15.28,4G,3.23,30.42,Rural,Desktop,18-25
+2020,Tamil Nadu,41,17.74,4G,6.09,44.69,Urban,Desktop,50+
+2020,Tamil Nadu,72,26.1,3G,3.26,154.97,Rural,Mobile,18-25
+2020,UP,54,29.44,4G,4.3,87.97,Rural,Mobile,18-25
+2017,UP,23,12.82,5G,14.84,115.26,Rural,Desktop,50+
+2020,Kerala,104,25,5G,7.77,9.1,Rural,Mobile,36-50
+2022,Kerala,64,23.17,3G,8.91,11.71,Rural,Mobile,36-50
+2025,Karnataka,93,17.63,5G,13.36,91.94,Rural,Mobile,50+
+2025,Maharashtra,73,28.73,3G,14.94,164.25,Rural,Mobile,50+
+2016,UP,53,6.81,4G,9.58,177.62,Rural,Desktop,18-25
+2019,Tamil Nadu,112,4.17,4G,12.56,21.91,Rural,Mobile,26-35
+2015,Delhi,123,25.76,4G,6.25,109.98,Urban,Desktop,50+
+2015,Tamil Nadu,41,13.74,5G,5.97,183.08,Urban,Mobile,18-25
+2019,Maharashtra,147,25.56,3G,7.24,80.65,Rural,Mobile,26-35
+2017,Kerala,15,26.9,4G,10.74,166.77,Urban,Desktop,36-50
+2018,Tamil Nadu,142,2.81,3G,10.87,31.07,Urban,Mobile,36-50
+2017,Karnataka,82,26.62,4G,6.1,187.4,Rural,Desktop,18-25
+2015,Maharashtra,81,14,5G,3.73,151.53,Rural,Mobile,18-25
+2015,Kerala,6,15.8,5G,10.22,188.56,Rural,Mobile,50+
+2019,Delhi,68,19.17,3G,3.67,136.94,Rural,Mobile,36-50
+2020,Kerala,39,27.87,5G,9.52,75.86,Rural,Mobile,18-25
+2017,Telangana,11,1.55,5G,11.01,187.95,Rural,Mobile,36-50
+2023,Karnataka,89,14.83,3G,11.11,58.74,Urban,Desktop,36-50
+2019,Maharashtra,71,20.94,4G,11.8,69.77,Rural,Desktop,50+
+2022,Delhi,46,21.96,5G,13.35,141.66,Urban,Mobile,26-35
+2015,Karnataka,122,21.08,3G,8.5,154.24,Rural,Mobile,50+
+2019,Kerala,129,4.9,5G,11.49,186.23,Rural,Desktop,18-25
+2017,Karnataka,28,9.68,5G,10.05,44.94,Urban,Desktop,50+
+2015,Maharashtra,50,11.4,5G,4.43,160.61,Rural,Mobile,50+
+2018,UP,23,24.33,5G,2.33,149.02,Rural,Mobile,36-50
+2019,Karnataka,72,9.08,3G,5.7,17.44,Urban,Desktop,50+
+2021,Telangana,106,7.11,3G,7.76,80.51,Rural,Mobile,18-25
+2015,Karnataka,46,28.77,3G,10.02,60.14,Urban,Desktop,26-35
+2017,Kerala,36,1.26,5G,13.05,64.38,Rural,Mobile,50+
+2016,Kerala,113,29.94,5G,4.55,196.67,Rural,Desktop,50+
+2023,Delhi,40,20.63,5G,3.63,130.34,Urban,Desktop,26-35
+2024,Kerala,101,25.03,3G,14.53,144.95,Rural,Mobile,18-25
+2020,Tamil Nadu,135,9.54,5G,3.4,195.44,Urban,Desktop,18-25
+2024,Maharashtra,77,1.42,4G,8.22,78.55,Urban,Mobile,50+
+2017,Maharashtra,140,22.4,5G,9.61,161.36,Urban,Mobile,36-50
+2022,UP,101,25.19,4G,9.04,89.73,Rural,Mobile,50+
+2022,UP,127,22.47,5G,3.12,174.56,Rural,Mobile,26-35
+2016,Maharashtra,74,5.14,3G,2.74,40.23,Urban,Desktop,26-35
+2020,Telangana,17,22.85,5G,3.37,189.8,Rural,Mobile,26-35
+2021,UP,53,23.3,4G,9.61,47.66,Rural,Mobile,50+
+2016,Delhi,64,20.1,4G,9.08,68.61,Rural,Mobile,50+
+2025,Kerala,134,23.22,5G,5.04,152.46,Urban,Mobile,18-25
+2024,Maharashtra,9,25.53,4G,10.29,81.78,Rural,Desktop,36-50
+2016,UP,31,18.79,4G,12.66,123.6,Urban,Mobile,50+
+2024,Maharashtra,12,3.57,3G,2.54,91.69,Rural,Desktop,18-25
+2015,Tamil Nadu,54,15.14,5G,8.48,149.76,Rural,Desktop,50+
+2022,Karnataka,71,3.25,5G,10.96,49.52,Urban,Desktop,18-25
+2015,Kerala,48,12.82,5G,5.28,16.4,Rural,Mobile,18-25
+2023,Maharashtra,129,12.81,4G,6,63.49,Urban,Mobile,36-50
+2025,Karnataka,62,2.91,5G,9.98,97.49,Rural,Mobile,50+
+2020,UP,7,11.12,5G,13.67,37.76,Urban,Mobile,18-25
+2021,Karnataka,90,4.22,3G,12.53,74.19,Rural,Desktop,26-35
+2024,Kerala,74,24.44,3G,9.58,83,Rural,Desktop,26-35
+2021,Maharashtra,134,28.48,3G,11.49,16.19,Rural,Mobile,26-35
+2024,Tamil Nadu,6,3.1,4G,6.74,118.74,Urban,Mobile,36-50
+2017,Telangana,106,28.7,5G,10.33,177.45,Urban,Mobile,18-25
+2016,UP,39,16.15,3G,8.06,34.59,Urban,Mobile,36-50
+2023,Maharashtra,102,9.69,3G,4.47,121.57,Rural,Mobile,50+
+2022,Kerala,34,3.23,3G,11.12,134.62,Urban,Mobile,50+
+2024,UP,120,15.52,5G,9.23,86.77,Urban,Mobile,18-25
+2021,Delhi,12,24.04,5G,6.66,141.71,Urban,Desktop,26-35
+2023,Karnataka,48,21.51,5G,13.85,85.09,Urban,Desktop,18-25
+2018,Telangana,40,2.46,4G,2.27,103.4,Urban,Desktop,18-25
+2018,Kerala,81,3.11,4G,6.11,6.43,Urban,Desktop,18-25
+2015,Delhi,35,12.68,3G,2.74,139.89,Urban,Mobile,36-50
+2022,Maharashtra,51,9.56,5G,11.96,133.96,Urban,Mobile,50+
+2017,Tamil Nadu,59,7.74,3G,11.13,12.49,Urban,Mobile,18-25
+2021,UP,110,9.15,5G,6.31,76.81,Urban,Mobile,18-25
+2016,Karnataka,125,24.3,5G,10.78,195.91,Rural,Mobile,18-25
+2016,UP,59,27.95,5G,7.15,87.04,Rural,Desktop,36-50
+2021,Telangana,148,12.75,4G,11.83,102.88,Urban,Mobile,36-50
+2020,Maharashtra,16,27.28,4G,7.9,182.44,Rural,Desktop,36-50
+2017,UP,149,10.32,5G,7.36,144.87,Rural,Mobile,18-25
+2023,Karnataka,148,14.82,3G,14.15,118.5,Urban,Desktop,26-35
+2024,Maharashtra,144,7.55,5G,5.26,160.57,Urban,Mobile,26-35
+2020,UP,140,19.57,5G,3.57,173.55,Urban,Desktop,26-35
+2024,Tamil Nadu,7,29.39,3G,9.6,94.09,Rural,Mobile,50+
+2024,Kerala,148,18.5,5G,14.6,97.65,Urban,Mobile,18-25
+2020,Maharashtra,34,11.38,3G,6.91,80.28,Rural,Mobile,26-35
+2015,Kerala,27,19.79,4G,2.81,193.51,Urban,Mobile,26-35
+2018,Maharashtra,96,4.56,4G,6.41,140.95,Rural,Desktop,26-35
+2024,Tamil Nadu,119,26.77,3G,8.58,21.23,Rural,Mobile,18-25
+2020,Kerala,108,15.59,4G,4.1,173.28,Urban,Desktop,26-35
+2020,Delhi,122,14.03,4G,10.56,98.71,Urban,Mobile,26-35
+2025,Karnataka,9,17.99,3G,14.97,18.41,Rural,Desktop,18-25
+2019,Delhi,108,19.12,4G,7.87,112.19,Rural,Mobile,50+
+2015,UP,112,3.08,5G,6.61,86.35,Urban,Mobile,36-50
+2022,Tamil Nadu,69,20.8,5G,7.21,176.16,Urban,Desktop,26-35
+2019,Delhi,125,8.02,3G,3.5,44.78,Rural,Mobile,36-50
+2019,Maharashtra,34,21.7,4G,13.48,166.16,Urban,Mobile,50+
+2021,UP,88,24.85,5G,7.39,113.75,Rural,Desktop,50+
+2018,UP,36,24.31,5G,7.03,15.65,Urban,Mobile,26-35
+2020,Delhi,20,17.02,4G,10.58,194.51,Urban,Desktop,18-25
+2018,Delhi,42,16.08,4G,7.75,104.96,Urban,Mobile,50+
+2017,Tamil Nadu,146,5.14,5G,10.43,61.72,Rural,Desktop,36-50
+2021,Karnataka,40,23.49,5G,2.8,96.53,Urban,Desktop,36-50
+2022,Delhi,118,8.87,3G,12.58,172.28,Rural,Desktop,36-50
+2018,Telangana,70,15.4,3G,14.23,64.46,Urban,Desktop,36-50
+2016,Delhi,109,9.24,5G,10.43,42.57,Rural,Mobile,50+
+2024,Kerala,89,4.88,3G,14.41,30.17,Rural,Mobile,26-35
+2017,Maharashtra,6,19.26,5G,3.97,63.08,Urban,Desktop,26-35
+2015,Telangana,79,2.58,5G,8.21,157.11,Rural,Mobile,36-50
+2022,Telangana,71,22.71,3G,9.82,96.97,Rural,Mobile,26-35
+2017,Kerala,59,10.21,3G,9.56,49.36,Rural,Mobile,36-50
+2024,Kerala,10,1,4G,7.22,37.41,Rural,Desktop,36-50
+2021,UP,147,15.82,4G,6.4,69.88,Urban,Mobile,18-25
+2024,Karnataka,90,2.36,4G,3.65,188.29,Urban,Mobile,50+
+2019,Maharashtra,64,9.01,5G,7.09,71.89,Urban,Desktop,50+
+2024,Tamil Nadu,105,21.5,3G,4.11,197.68,Rural,Mobile,36-50
+2019,Telangana,16,2.82,5G,11.55,99.62,Rural,Desktop,50+
+2021,Tamil Nadu,53,25.34,3G,4.71,39.94,Urban,Desktop,26-35
+2023,Delhi,46,1.11,5G,2.76,178.77,Urban,Desktop,36-50
+2019,Delhi,86,8.16,4G,9.18,94.77,Rural,Mobile,18-25
+2015,Tamil Nadu,39,22.49,4G,9.74,143.39,Urban,Mobile,26-35
+2024,Delhi,138,10.17,4G,13.33,196.82,Urban,Desktop,18-25
+2024,Karnataka,71,3.95,5G,9.5,14.78,Rural,Desktop,18-25
+2015,Kerala,84,11.45,3G,6.49,23.86,Urban,Desktop,50+
+2016,Delhi,11,8.84,3G,12.44,145.49,Rural,Desktop,50+
+2020,UP,18,25.44,4G,9.02,59.96,Urban,Desktop,36-50
+2023,Delhi,77,10.09,4G,3.03,40.94,Rural,Desktop,50+
+2022,Maharashtra,147,23.88,4G,9.36,12.68,Rural,Mobile,18-25
+2019,Karnataka,70,26.86,4G,13.8,9.26,Rural,Desktop,18-25
+2015,Maharashtra,95,13.58,3G,7.15,156.02,Rural,Desktop,26-35
+2021,Maharashtra,134,27.39,5G,5.85,31.21,Rural,Desktop,18-25
+2019,UP,24,11.94,5G,3.87,96.21,Urban,Mobile,36-50
+2020,Karnataka,14,28.96,5G,3.97,123.15,Urban,Mobile,36-50
+2021,Karnataka,29,3.59,5G,7.63,88.53,Urban,Mobile,50+
+2017,Karnataka,29,20.92,4G,9.74,10.29,Rural,Mobile,50+
+2024,Karnataka,58,15.32,4G,3.05,157.78,Urban,Desktop,50+
+2017,Karnataka,37,12.24,4G,14.21,7.05,Rural,Mobile,36-50
+2019,UP,99,19.35,5G,11.82,153.57,Rural,Desktop,18-25
+2020,Delhi,18,21.41,4G,9.63,179.19,Urban,Desktop,50+
+2023,Maharashtra,69,1.13,4G,12.77,89.4,Rural,Desktop,26-35
+2019,Karnataka,114,5.84,3G,3.04,109.43,Urban,Desktop,50+
+2015,Telangana,84,21.68,3G,8.2,98.01,Rural,Desktop,36-50
+2018,Delhi,58,20.33,4G,10.19,80.9,Rural,Desktop,50+
+2019,Delhi,129,29.02,3G,12.77,178.05,Urban,Mobile,18-25
+2024,Maharashtra,135,23.07,3G,12.19,179.32,Rural,Mobile,50+
+2024,UP,138,28.57,4G,5.6,70.48,Urban,Mobile,36-50
+2019,Tamil Nadu,29,21.37,4G,14.23,124.94,Rural,Mobile,36-50
+2021,Tamil Nadu,145,9.64,4G,3.62,185.75,Urban,Mobile,26-35
+2018,Delhi,121,4.06,4G,13.38,192.6,Rural,Desktop,36-50
+2015,Kerala,140,23.67,5G,14.62,104.25,Urban,Mobile,26-35
+2019,Kerala,29,19.68,5G,4.3,93.3,Urban,Mobile,18-25
+2021,Maharashtra,83,2.4,4G,11.39,59.35,Rural,Mobile,36-50
+2024,Tamil Nadu,72,11.44,3G,2.52,191.98,Urban,Desktop,50+
+2024,Delhi,16,28.75,4G,7.27,32.85,Rural,Desktop,18-25
+2020,UP,36,15.51,4G,8.71,118.07,Rural,Desktop,50+
+2019,Tamil Nadu,132,13.55,3G,9.55,60.1,Urban,Mobile,50+
+2018,Delhi,100,14.27,5G,14.17,59.41,Urban,Mobile,50+
+2016,Delhi,96,7.06,4G,10.74,83.97,Urban,Mobile,18-25
+2018,Karnataka,145,11.69,4G,8.26,199.76,Urban,Mobile,18-25
+2024,UP,35,11.72,5G,12.53,15.72,Urban,Mobile,36-50
+2024,Karnataka,82,2.52,5G,14.36,117.82,Rural,Desktop,50+
+2017,Maharashtra,24,23.26,3G,2.29,21.1,Urban,Mobile,26-35
+2024,Karnataka,64,13.08,5G,14.77,35.13,Rural,Desktop,36-50
+2015,Telangana,138,24.84,5G,3.12,90.71,Urban,Mobile,18-25
+2022,Karnataka,97,25.66,5G,12.59,104.54,Urban,Desktop,26-35
+2019,Telangana,47,7.15,3G,5.64,55.46,Urban,Desktop,18-25
+2018,Tamil Nadu,134,20.06,5G,3.72,66.71,Rural,Desktop,26-35
+2022,Kerala,64,14.7,5G,7.72,21.96,Urban,Desktop,36-50
+2021,Delhi,35,26.52,3G,10.37,64.13,Rural,Mobile,26-35
+2016,Telangana,9,7.26,5G,6.95,193.48,Rural,Mobile,36-50
+2015,UP,14,20.66,5G,2.71,189.22,Rural,Mobile,18-25
+2025,Karnataka,93,18.62,3G,9.79,70.3,Urban,Desktop,26-35
+2018,Telangana,134,9.56,4G,13.73,116.32,Rural,Mobile,50+
+2022,UP,130,4.96,3G,6.98,182.37,Urban,Mobile,50+
+2016,Kerala,15,19.9,5G,4.81,6.21,Rural,Mobile,18-25
+2017,Kerala,60,22.42,5G,7.75,163.08,Urban,Mobile,26-35
+2015,Karnataka,87,10.15,5G,2.63,189.93,Rural,Desktop,50+
+2015,Maharashtra,141,19.7,3G,12.67,22.81,Urban,Desktop,36-50
+2017,Karnataka,103,12.46,5G,12.74,36.48,Urban,Mobile,26-35
+2025,Tamil Nadu,77,21.68,5G,9.64,192.35,Urban,Mobile,26-35
+2019,Telangana,119,6.78,3G,6.59,109.82,Rural,Mobile,50+
+2017,Delhi,11,26.82,4G,12.4,7.77,Rural,Desktop,36-50
+2015,Maharashtra,84,9.33,4G,9.21,55.24,Urban,Desktop,36-50
+2015,Karnataka,148,11.67,5G,12.74,92.74,Rural,Desktop,36-50
+2022,UP,101,2.68,3G,10.21,140.12,Rural,Mobile,26-35
+2024,Maharashtra,8,4.23,5G,12.2,147.97,Rural,Desktop,18-25
+2025,Telangana,8,15.96,3G,9.78,199.11,Rural,Desktop,26-35
+2016,Maharashtra,107,8.76,3G,7.38,61.06,Rural,Desktop,26-35
+2017,Telangana,44,25.23,4G,14.45,109.95,Rural,Desktop,50+
+2016,Karnataka,21,1.43,4G,9.03,109,Rural,Desktop,18-25
+2017,Telangana,105,11.99,3G,9.87,84.1,Urban,Mobile,36-50
+2021,Maharashtra,107,10.78,5G,4.87,37.99,Urban,Mobile,50+
+2015,UP,128,1.56,4G,10.13,195.6,Rural,Mobile,26-35
+2024,Kerala,56,4.61,5G,9.43,171.4,Urban,Mobile,18-25
+2022,Maharashtra,56,13,4G,4.4,102.17,Urban,Desktop,36-50
+2024,Telangana,128,15.29,4G,2.77,122.63,Urban,Mobile,36-50
+2024,Kerala,67,12.72,5G,9.86,49.32,Rural,Mobile,26-35
+2024,Telangana,120,16.4,4G,11.93,111.04,Rural,Mobile,36-50
+2016,UP,66,18.26,4G,8.8,140.52,Rural,Desktop,36-50
+2017,Telangana,11,1.29,5G,4.95,105.46,Rural,Mobile,18-25
+2023,Karnataka,96,14.46,4G,10.66,198.11,Rural,Desktop,50+
+2021,Delhi,18,28.94,4G,3.04,124.21,Urban,Desktop,18-25
+2018,Maharashtra,90,16.05,4G,7.74,77.34,Rural,Desktop,50+
+2024,Delhi,137,20.65,5G,4.12,155.57,Urban,Mobile,50+
+2019,Telangana,134,10.04,3G,4.4,38.24,Rural,Desktop,50+
+2016,UP,66,23.45,5G,4.63,79.98,Urban,Mobile,36-50
+2025,Maharashtra,83,23.41,3G,7.03,72.66,Rural,Mobile,18-25
+2022,Telangana,142,16.12,4G,2.66,89.2,Rural,Mobile,36-50
+2018,Kerala,62,29.3,3G,7.17,157.45,Rural,Desktop,26-35
+2023,Tamil Nadu,124,4.64,5G,8.65,99.41,Rural,Desktop,18-25
+2019,Telangana,137,1.49,5G,8.28,159.83,Rural,Mobile,50+
+2023,Delhi,69,23.33,4G,6.98,117.42,Rural,Desktop,36-50
+2018,Maharashtra,17,24.41,3G,12.91,71.7,Urban,Desktop,36-50
+2024,Delhi,86,4.49,4G,3.89,162.95,Rural,Desktop,18-25
+2019,Maharashtra,143,8.7,4G,8.57,51.47,Urban,Mobile,18-25
+2023,Telangana,56,1.51,5G,2.81,48.75,Rural,Desktop,50+
+2022,Karnataka,121,9.51,3G,2.93,103.38,Urban,Desktop,50+
+2017,Kerala,30,23.42,3G,9.46,55.87,Urban,Mobile,26-35
+2015,Telangana,38,16.02,3G,9.36,6.77,Urban,Desktop,50+
+2017,Delhi,56,11.09,3G,13.41,131.42,Urban,Mobile,36-50
+2018,Tamil Nadu,116,11.78,4G,9.25,104.66,Urban,Desktop,26-35
+2016,Tamil Nadu,86,1.04,4G,14.48,91.88,Urban,Desktop,26-35
+2015,UP,46,9.69,5G,2.63,193.56,Rural,Desktop,26-35
+2021,Maharashtra,25,19.75,4G,3.27,116.38,Urban,Desktop,18-25
+2022,Delhi,46,29.25,4G,2.57,173.37,Rural,Desktop,50+
+2021,UP,145,25.56,5G,4.41,32.19,Rural,Desktop,26-35
+2019,Delhi,117,1.68,5G,9.04,116,Urban,Mobile,18-25
+2015,Maharashtra,109,27.06,5G,10.39,174.26,Urban,Desktop,18-25
+2021,Telangana,21,23.71,4G,2.59,118.71,Rural,Desktop,26-35
+2021,Telangana,124,23.63,4G,14.3,145.01,Urban,Desktop,26-35
+2023,Tamil Nadu,141,14.28,5G,12.95,77.55,Urban,Mobile,36-50
+2017,Telangana,133,12.54,5G,5.86,23.03,Urban,Mobile,26-35
+2023,Telangana,134,9.78,5G,3,94.29,Urban,Mobile,36-50
+2015,Karnataka,64,2.91,4G,4.21,81.92,Urban,Desktop,26-35
+2015,Tamil Nadu,52,7.62,4G,3.65,174.08,Urban,Desktop,26-35
+2018,UP,33,8.15,3G,3.6,52.58,Urban,Mobile,50+
+2023,Kerala,101,15.04,4G,8.74,193.51,Rural,Mobile,26-35
+2020,Karnataka,14,22.68,4G,5.2,191.84,Urban,Mobile,26-35
+2025,UP,62,14.74,4G,6.66,53.29,Rural,Desktop,36-50
+2017,Maharashtra,25,2.68,5G,14.86,72.87,Rural,Mobile,36-50
+2015,Karnataka,32,28.78,4G,10.9,179.63,Rural,Desktop,50+
+2018,UP,38,28.34,5G,14.34,193.49,Rural,Desktop,26-35
+2023,Maharashtra,12,23.77,3G,3.85,91.47,Urban,Desktop,26-35
+2017,Tamil Nadu,83,29.75,3G,6.97,67.59,Rural,Mobile,36-50
+2023,Kerala,149,16.79,5G,9.21,107.59,Rural,Desktop,18-25
+2021,Maharashtra,91,28.92,5G,3,139.11,Rural,Mobile,18-25
+2018,Telangana,92,3.19,5G,2.05,58.33,Rural,Mobile,18-25
+2017,Delhi,73,11.6,4G,10.72,148.61,Rural,Mobile,36-50
+2024,Maharashtra,91,7.54,3G,10.34,15.07,Urban,Mobile,36-50
+2019,Maharashtra,105,6.68,5G,7.34,14.61,Urban,Desktop,18-25
+2019,Kerala,12,5.08,4G,8.37,80.33,Rural,Desktop,18-25
+2017,Delhi,81,19.05,3G,7.4,73.93,Urban,Desktop,26-35
+2023,Telangana,91,23.66,4G,2.31,66.55,Urban,Desktop,36-50
+2018,UP,47,17.77,3G,6.36,100.75,Rural,Mobile,36-50
+2025,UP,133,5.26,4G,4.3,67.54,Rural,Mobile,18-25
+2019,Maharashtra,113,24.52,3G,3.28,42.49,Rural,Mobile,18-25
+2018,Delhi,21,19.44,3G,14.44,65.35,Urban,Mobile,50+
+2019,Delhi,137,12.26,4G,9.79,195.11,Rural,Desktop,36-50
+2021,Telangana,25,20.55,5G,11.47,85.17,Urban,Mobile,50+
+2023,Kerala,62,8.54,3G,6.1,91.72,Urban,Desktop,26-35
+2021,Tamil Nadu,114,11.01,5G,7.11,117.43,Urban,Mobile,50+
+2019,UP,143,27.61,4G,5.08,196.75,Rural,Mobile,18-25
+2024,Kerala,147,9.42,5G,3.26,52.11,Urban,Mobile,36-50
+2024,Karnataka,139,14.63,5G,4.33,137.85,Rural,Mobile,36-50
+2021,UP,32,26.81,5G,12.37,144.62,Rural,Desktop,50+
+2024,Kerala,55,21.52,5G,10.81,123.43,Rural,Desktop,50+
+2019,UP,9,2.8,5G,9.11,22.27,Rural,Desktop,26-35
+2017,Tamil Nadu,9,5.27,3G,8.18,136.99,Rural,Desktop,26-35
+2021,Karnataka,98,1.23,3G,13.99,17.5,Urban,Mobile,18-25
+2025,Tamil Nadu,100,19.3,3G,2.95,121.25,Urban,Mobile,18-25
+2025,Telangana,12,13.98,4G,5.65,149.22,Urban,Desktop,18-25
+2016,Karnataka,68,4.89,5G,6.55,46.14,Urban,Desktop,50+
+2023,Maharashtra,142,28.78,3G,12.17,169.12,Urban,Mobile,50+
+2024,Kerala,42,16.36,4G,14.9,10.92,Rural,Mobile,36-50
+2024,Karnataka,115,8.01,3G,5.13,169.54,Rural,Desktop,18-25
+2015,Telangana,116,15.52,3G,13.37,94.76,Urban,Desktop,50+
+2020,Telangana,85,20.71,5G,12.8,47.43,Urban,Desktop,36-50
+2021,Tamil Nadu,140,3.21,4G,4.92,31.09,Urban,Mobile,18-25
+2022,UP,108,8.97,5G,7.19,190.89,Rural,Desktop,26-35
+2024,Karnataka,77,24.4,5G,7.33,19.17,Rural,Desktop,26-35
+2023,Kerala,53,14.33,3G,14.72,43.82,Rural,Desktop,50+
+2016,Karnataka,40,16.85,5G,4.35,72.83,Urban,Desktop,36-50
+2025,Delhi,130,13.55,4G,12.39,125.95,Urban,Desktop,26-35
+2024,UP,72,2.27,5G,6.34,111.24,Urban,Mobile,36-50
+2016,Kerala,82,5.81,5G,11.5,29.5,Urban,Desktop,36-50
+2019,Kerala,109,13.92,5G,7.46,61.5,Rural,Mobile,26-35
+2019,Maharashtra,126,7.07,3G,9.52,51.56,Urban,Desktop,36-50
+2020,Tamil Nadu,123,2.45,4G,12.82,46.64,Urban,Desktop,26-35
+2017,Maharashtra,118,25.47,3G,12.45,85.17,Urban,Desktop,50+
+2022,Kerala,14,29.45,3G,13.26,142.29,Rural,Mobile,18-25
+2015,UP,144,24,3G,2.78,47.4,Rural,Mobile,18-25
+2020,Karnataka,95,25.76,3G,11,76.5,Urban,Mobile,50+
+2018,Karnataka,6,8.02,3G,3.82,81.23,Rural,Desktop,26-35
+2015,UP,122,28.86,4G,7.41,195.41,Rural,Desktop,26-35
+2021,Kerala,17,6.71,5G,9.13,191.16,Rural,Mobile,26-35
+2023,Telangana,99,28.59,3G,7.24,161.03,Rural,Mobile,26-35
+2018,Karnataka,148,29.85,3G,8.75,52.12,Rural,Desktop,50+
+2018,Telangana,36,21.64,4G,14.95,18.27,Urban,Mobile,18-25
+2020,Karnataka,36,29.45,4G,3.76,66.8,Urban,Desktop,36-50
+2017,Karnataka,128,17.52,5G,10.78,57.02,Urban,Mobile,36-50
+2020,Tamil Nadu,15,8.53,4G,7.15,103.66,Rural,Mobile,18-25
+2021,Tamil Nadu,14,13.67,5G,3.73,156.66,Rural,Mobile,50+
+2025,Delhi,19,18.21,3G,4.06,172.37,Rural,Desktop,36-50
+2024,Maharashtra,21,3.12,3G,14.34,169.75,Rural,Desktop,18-25
+2024,UP,63,19.05,5G,13.43,75.14,Urban,Mobile,50+
+2017,UP,82,29.45,4G,13.79,139.01,Urban,Desktop,36-50
+2021,UP,128,6.51,5G,14.89,66,Urban,Desktop,26-35
+2017,Delhi,118,23.99,4G,4.71,16.88,Urban,Desktop,26-35
+2016,Tamil Nadu,26,27.33,3G,6.62,141.81,Urban,Desktop,50+
+2024,Kerala,36,28.37,4G,10.7,6.92,Urban,Mobile,26-35
+2018,Telangana,117,28.84,5G,8.29,84.79,Rural,Desktop,50+
+2022,Telangana,124,16.12,5G,7.44,69.23,Rural,Desktop,18-25
+2023,Kerala,126,29.34,3G,6.65,140.21,Urban,Mobile,18-25
+2021,Delhi,36,22.96,4G,9.72,154.42,Rural,Desktop,36-50
+2015,Kerala,123,5.69,4G,9.48,64.3,Urban,Desktop,50+
+2017,UP,43,14.83,4G,4.1,163.27,Urban,Desktop,36-50
+2023,Maharashtra,16,21.83,3G,8.13,62.31,Rural,Mobile,36-50
+2015,Karnataka,22,8.17,4G,9.2,92.03,Urban,Mobile,18-25
+2023,Telangana,145,19.58,5G,9.41,146.77,Urban,Desktop,36-50
+2022,Tamil Nadu,130,20.33,4G,4.73,140.12,Urban,Desktop,26-35
+2015,Tamil Nadu,140,5.72,3G,11.65,197.54,Rural,Mobile,36-50
+2020,Delhi,50,17.39,4G,2.33,48.91,Rural,Mobile,50+
+2019,Tamil Nadu,108,23.38,4G,6.61,134.15,Rural,Mobile,26-35
+2020,UP,139,15.47,5G,12.14,123.89,Rural,Desktop,18-25
+2024,Telangana,90,1.35,4G,9.33,183.44,Urban,Desktop,50+
+2019,Kerala,93,1.26,5G,5.4,35.49,Rural,Mobile,26-35
+2020,UP,26,11.35,5G,11.03,151.6,Rural,Desktop,50+
+2019,Delhi,96,27.86,3G,9.38,115.81,Rural,Desktop,26-35
+2025,UP,33,7.63,5G,12.35,58.56,Urban,Desktop,50+
+2019,Kerala,17,19.4,5G,11.56,97.51,Rural,Desktop,50+
+2018,Maharashtra,6,7.44,3G,9.93,70.09,Rural,Desktop,26-35
+2017,Delhi,33,10.33,5G,8.35,117.97,Urban,Desktop,18-25
+2017,Maharashtra,31,25.59,3G,3.73,178.36,Urban,Desktop,18-25
+2018,Karnataka,54,22.14,4G,5.4,116.01,Urban,Mobile,50+
+2023,Maharashtra,99,3.77,3G,7.45,128.19,Urban,Mobile,50+
+2016,Karnataka,92,13.43,5G,9.79,106.16,Rural,Mobile,18-25
+2023,Karnataka,48,1.85,3G,8.68,14.98,Urban,Mobile,18-25
+2015,Maharashtra,26,14.95,5G,5.75,50.41,Rural,Mobile,36-50
+2015,Delhi,101,20.21,4G,2.08,100.94,Rural,Mobile,18-25
+2019,Kerala,7,4.44,3G,8.45,65.5,Rural,Mobile,50+
+2020,UP,122,9.38,4G,5.71,40.44,Rural,Mobile,26-35
+2020,UP,23,12.54,5G,11.55,103.31,Rural,Mobile,18-25
+2017,Kerala,27,27.67,5G,2.31,67.95,Urban,Desktop,36-50
+2021,Telangana,34,29.8,4G,9.6,55.33,Rural,Desktop,36-50
+2023,Telangana,43,2.3,3G,14.24,95.48,Rural,Mobile,36-50
+2025,Karnataka,112,23.07,3G,4.27,30.99,Rural,Desktop,26-35
+2024,Karnataka,115,11.78,5G,8.13,185.91,Urban,Desktop,18-25
+2022,Delhi,29,12.38,4G,3.19,174.2,Rural,Mobile,18-25
+2020,Tamil Nadu,132,22.87,4G,10.13,142.99,Rural,Mobile,18-25
+2022,Maharashtra,115,27.63,3G,9.16,25.71,Urban,Mobile,26-35
+2019,Karnataka,140,28.58,3G,7.3,156.3,Rural,Desktop,26-35
+2022,UP,110,17.74,3G,8.78,162.55,Rural,Desktop,50+
+2024,Delhi,148,11.36,4G,13.66,154.71,Urban,Mobile,36-50
+2018,Maharashtra,76,23.84,3G,4.55,27.22,Rural,Desktop,36-50
+2024,Delhi,133,8.28,3G,2.29,130.56,Rural,Desktop,18-25
+2022,Maharashtra,112,17.36,5G,13.2,167.69,Rural,Desktop,26-35
+2024,Maharashtra,9,11.4,3G,9.5,117.58,Rural,Mobile,26-35
+2016,Kerala,7,20.04,3G,13.58,131.05,Rural,Desktop,18-25
+2019,Karnataka,136,7.97,4G,9.76,94.38,Urban,Desktop,18-25
+2023,Delhi,108,6.56,4G,12.53,108.1,Urban,Desktop,50+
+2018,Delhi,68,27.63,5G,7.59,11.7,Urban,Desktop,36-50
+2025,Kerala,110,3.95,3G,11.75,129.6,Rural,Desktop,36-50
+2020,UP,102,15.67,5G,13.87,20.88,Rural,Desktop,36-50
+2015,UP,14,7.4,4G,9.44,89.83,Rural,Desktop,50+
+2023,Telangana,132,2.13,5G,4.35,62.07,Urban,Mobile,18-25
+2015,Karnataka,50,2.04,4G,5.49,111.36,Rural,Mobile,18-25
+2019,Karnataka,70,6.08,5G,4.58,31.02,Rural,Desktop,36-50
+2018,Tamil Nadu,116,26.14,5G,5.21,139.87,Rural,Mobile,36-50
+2017,Kerala,17,9.19,3G,5.98,160.03,Urban,Desktop,50+
+2020,UP,141,28.56,5G,9.22,36.85,Urban,Desktop,26-35
+2016,Maharashtra,90,17.87,3G,9.64,25.34,Rural,Desktop,26-35
+2017,Delhi,94,13.66,3G,7.54,33.38,Rural,Mobile,36-50
+2019,Karnataka,62,17.82,3G,10,176.04,Rural,Desktop,50+
+2023,Delhi,58,15.98,3G,3.06,108,Urban,Desktop,36-50
+2016,Delhi,16,23,5G,3.14,96.12,Urban,Mobile,26-35
+2024,Tamil Nadu,18,9.19,4G,4.23,25.81,Urban,Mobile,36-50
+2022,UP,125,11.24,4G,8.74,131.66,Rural,Desktop,26-35
+2016,Karnataka,125,26.93,4G,4.78,174.26,Urban,Mobile,26-35
+2025,Delhi,24,28.45,5G,5.68,166.5,Rural,Mobile,26-35
+2019,Karnataka,79,26.88,3G,7.2,127.08,Rural,Desktop,18-25
+2021,Maharashtra,148,13.16,4G,12.55,19.68,Urban,Desktop,18-25
+2022,Tamil Nadu,74,23.63,5G,2.18,26.92,Rural,Desktop,36-50
+2015,Maharashtra,60,14.81,3G,10.44,14.62,Urban,Mobile,26-35
+2020,Karnataka,105,15.43,4G,10.7,55.21,Rural,Mobile,18-25
+2015,Telangana,136,6.94,3G,12.38,31.45,Rural,Mobile,36-50
+2016,Karnataka,115,18.14,4G,14.13,55.71,Urban,Desktop,36-50
+2015,UP,129,6.4,4G,2.26,80.09,Rural,Mobile,36-50
+2025,Delhi,136,10.62,4G,4,188.88,Rural,Mobile,36-50
+2019,Delhi,24,25.8,3G,13.52,124.02,Rural,Desktop,36-50
+2024,Maharashtra,142,7.01,5G,7.96,167.82,Rural,Desktop,50+
+2023,Tamil Nadu,28,3.06,3G,9.34,143.52,Rural,Desktop,26-35
+2020,Telangana,41,3,4G,10.62,26.94,Rural,Mobile,36-50
+2025,Kerala,58,28.28,3G,10.83,148.5,Rural,Desktop,50+
+2025,Delhi,107,15.7,5G,14.11,58.64,Rural,Mobile,26-35
+2015,UP,42,12.87,3G,14.96,129.63,Urban,Mobile,18-25
+2015,Maharashtra,8,24.52,5G,11.36,71.49,Urban,Desktop,36-50
+2016,Maharashtra,61,25.24,5G,5.73,199.55,Rural,Desktop,50+
+2023,Kerala,24,10.63,3G,13.44,56.39,Rural,Desktop,18-25
+2017,UP,21,21.11,4G,2.64,59.43,Urban,Desktop,50+
+2015,Tamil Nadu,123,23.36,5G,5,186.48,Rural,Desktop,26-35
+2019,UP,75,19.98,3G,13.67,9.81,Urban,Mobile,26-35
+2021,Tamil Nadu,8,5.4,5G,5.33,140.85,Urban,Mobile,18-25
+2020,UP,18,26.4,4G,4.87,146.44,Urban,Mobile,50+
+2015,UP,7,16.63,3G,3.8,168.09,Rural,Desktop,36-50
+2019,Karnataka,84,9.19,3G,13.17,195.02,Rural,Mobile,36-50
+2019,Maharashtra,59,13.33,3G,8.5,195.24,Rural,Desktop,18-25
+2020,UP,136,2.09,4G,10.77,17.73,Urban,Desktop,18-25
+2017,Kerala,124,4.71,5G,5.11,165.26,Urban,Mobile,18-25
+2019,UP,28,23.2,3G,11.85,131.03,Urban,Mobile,50+
+2021,Delhi,86,1,5G,11.88,131.23,Rural,Desktop,36-50
+2019,Maharashtra,64,13.08,5G,6.06,30.03,Urban,Mobile,36-50
+2019,Delhi,53,16.15,4G,7.34,131.79,Urban,Desktop,36-50
+2019,Maharashtra,67,2.58,3G,4.73,196.58,Rural,Mobile,18-25
+2024,Delhi,114,29.22,5G,14.7,182.8,Urban,Mobile,36-50
+2024,UP,113,7.56,3G,10.39,90.63,Urban,Mobile,26-35
+2017,UP,80,9.82,3G,14.15,12.79,Rural,Mobile,18-25
+2015,Karnataka,34,9.81,4G,5.94,75.65,Rural,Mobile,36-50
+2019,Kerala,62,7.68,3G,12.16,166.15,Urban,Desktop,50+
+2023,Delhi,121,1.04,3G,11.96,141.79,Rural,Mobile,18-25
+2015,Tamil Nadu,104,22.15,5G,10.99,94.57,Urban,Mobile,26-35
+2017,Karnataka,23,29.04,4G,14.55,15.74,Rural,Mobile,26-35
+2018,Delhi,98,7.5,3G,7.12,88.24,Urban,Desktop,50+
+2015,Delhi,117,20.23,5G,3.7,96.46,Rural,Desktop,50+
+2015,Karnataka,67,22.51,4G,10.73,186.07,Urban,Desktop,18-25
+2022,UP,120,25.6,4G,11.48,130.01,Rural,Desktop,18-25
+2016,Delhi,117,13.26,5G,9.48,65.77,Rural,Desktop,26-35
+2022,UP,51,9.78,5G,4.69,107.44,Rural,Mobile,50+
+2021,Karnataka,61,10.43,5G,8.56,17.88,Rural,Mobile,18-25
+2024,UP,122,21.67,5G,6.06,194.65,Rural,Mobile,26-35
+2024,Maharashtra,49,24.69,5G,7.56,75.21,Rural,Desktop,50+
+2016,Tamil Nadu,149,6.27,3G,10.39,98.18,Rural,Desktop,26-35
+2020,Telangana,8,11.76,3G,11.69,74.28,Urban,Mobile,36-50
+2020,Delhi,51,27.16,4G,5.02,138.09,Urban,Desktop,50+
+2017,Kerala,147,24.39,3G,7.27,134.14,Rural,Desktop,18-25
+2025,Tamil Nadu,51,29.56,3G,5.5,144.49,Rural,Desktop,18-25
+2016,Telangana,82,22.87,3G,4.58,57.29,Urban,Mobile,36-50
+2015,UP,128,12.4,5G,12.18,66.56,Urban,Mobile,50+
+2020,Delhi,79,18.13,4G,13.82,29.42,Rural,Desktop,26-35
+2019,UP,107,20.17,4G,6.81,132.82,Urban,Desktop,18-25
+2025,Maharashtra,141,3.28,4G,11.77,12.76,Urban,Desktop,36-50
+2023,Karnataka,94,16.79,4G,13.66,121.55,Rural,Desktop,36-50
+2015,Delhi,148,21.57,3G,13,174.59,Rural,Mobile,50+
+2021,Telangana,73,5.85,3G,4.38,178.71,Rural,Desktop,50+
+2019,Telangana,65,23.64,5G,14.43,92.56,Urban,Mobile,18-25
+2019,Maharashtra,142,17.93,4G,6.9,94.56,Rural,Mobile,36-50
+2016,Maharashtra,54,28.61,3G,6.41,20.01,Rural,Mobile,26-35
+2025,Delhi,7,2.23,3G,2.81,135.8,Urban,Desktop,36-50
+2017,UP,111,8.69,5G,8.32,165.15,Rural,Mobile,26-35
+2021,Kerala,117,18.45,5G,3.42,52.71,Urban,Mobile,26-35
+2020,Telangana,98,9.6,5G,5.23,87.15,Urban,Desktop,18-25
+2016,Telangana,122,21.72,3G,6.12,168.57,Urban,Desktop,36-50
+2020,Maharashtra,85,23.01,3G,12.51,176.04,Urban,Desktop,26-35
+2016,Tamil Nadu,113,3.97,5G,13.38,52.42,Urban,Mobile,50+
+2016,Maharashtra,55,15.9,4G,5.93,112.36,Urban,Desktop,26-35
+2016,Kerala,39,15.76,5G,13.16,42.54,Rural,Mobile,50+
+2025,UP,50,11.71,5G,13.14,24.87,Rural,Mobile,50+
+2017,UP,73,28.05,5G,11.94,182.67,Rural,Desktop,36-50
+2016,Tamil Nadu,97,25,5G,3.91,165,Urban,Mobile,50+
+2018,Telangana,68,21.22,3G,10.97,153.21,Rural,Mobile,26-35
+2023,Maharashtra,53,21.72,4G,14.29,14.51,Urban,Mobile,50+
+2020,UP,78,14.39,5G,10.87,169.53,Rural,Mobile,36-50
+2015,Kerala,9,27.71,4G,6.31,90.42,Urban,Desktop,18-25
+2022,Delhi,104,21.14,4G,8.51,71.77,Rural,Mobile,26-35
+2021,Karnataka,74,22.14,4G,10.39,111.56,Urban,Desktop,26-35
+2024,Karnataka,94,25.99,5G,8.64,22.81,Rural,Mobile,36-50
+2017,Karnataka,8,8.95,3G,3.56,152.55,Urban,Mobile,36-50
+2015,Telangana,130,24.41,5G,6.06,118.57,Rural,Desktop,36-50
+2019,Maharashtra,43,6.66,4G,12.43,41.39,Urban,Mobile,36-50
+2018,Tamil Nadu,133,11.01,4G,13.2,41.71,Rural,Mobile,26-35
+2024,UP,28,10.73,3G,3.78,40.93,Rural,Mobile,18-25
+2022,Delhi,61,29.38,5G,14.38,16.12,Rural,Mobile,50+
+2015,Kerala,104,25.84,4G,6.27,119.62,Urban,Mobile,50+
+2024,Delhi,74,21.33,3G,10.61,168.87,Urban,Mobile,18-25
+2015,Kerala,45,22.08,4G,11.77,8.41,Urban,Desktop,18-25
+2018,Telangana,64,17.3,3G,12.56,14.56,Urban,Desktop,18-25
+2022,Maharashtra,112,28.47,3G,14.29,116.69,Urban,Desktop,36-50
+2019,Karnataka,61,15.39,5G,6.07,164.8,Rural,Mobile,26-35
+2016,Maharashtra,35,12.04,4G,13.16,68.71,Urban,Mobile,26-35
+2020,Telangana,88,5.73,5G,3.71,73.17,Rural,Mobile,26-35
+2019,Tamil Nadu,40,23.8,4G,11.17,121.29,Rural,Desktop,36-50
+2016,Tamil Nadu,112,22.3,5G,11.65,58.47,Urban,Mobile,26-35
+2025,Telangana,110,12.15,4G,10.81,10.19,Rural,Desktop,36-50
+2025,Kerala,90,1.73,5G,5.28,148.37,Urban,Mobile,26-35
+2025,UP,139,25.33,3G,13.35,127,Urban,Mobile,18-25
+2017,UP,18,1.33,4G,4.2,118.25,Urban,Mobile,50+
+2023,Kerala,124,21.41,4G,2.7,149.63,Rural,Desktop,50+
+2021,Tamil Nadu,142,29.14,3G,11.33,136.67,Urban,Mobile,36-50
+2021,Tamil Nadu,84,13.69,5G,8.18,45.15,Urban,Desktop,26-35
+2025,Tamil Nadu,148,7.81,4G,13.04,73.73,Urban,Mobile,50+
+2020,Maharashtra,110,21.44,4G,6.98,29.59,Rural,Mobile,18-25
+2022,Tamil Nadu,74,24.7,5G,4.19,30.32,Urban,Desktop,18-25
+2018,Delhi,48,16.85,3G,12.87,136.86,Rural,Mobile,18-25
+2022,Karnataka,77,29.04,5G,9.14,172.43,Rural,Mobile,36-50
+2018,Tamil Nadu,49,2.5,5G,4.46,192.73,Urban,Mobile,36-50
+2022,Kerala,111,15.64,5G,11.36,127.53,Rural,Mobile,26-35
+2023,Karnataka,88,21.84,4G,8.64,40.9,Rural,Desktop,18-25
+2017,Maharashtra,86,26.02,3G,9.86,25.6,Urban,Desktop,26-35
+2017,Kerala,111,6.2,3G,7.99,163.51,Urban,Mobile,26-35
+2025,Karnataka,25,24.2,5G,12.77,117.86,Urban,Mobile,18-25
+2016,Kerala,11,17.03,4G,12.78,125.57,Rural,Desktop,26-35
+2024,Maharashtra,74,12.5,5G,11.22,157.39,Urban,Mobile,50+
+2017,Delhi,131,4.82,4G,3.37,142.14,Rural,Desktop,36-50
+2017,Maharashtra,147,26.09,4G,12.91,167.72,Rural,Mobile,26-35
+2019,Maharashtra,147,5.56,4G,10.72,15.96,Rural,Desktop,18-25
+2019,Kerala,124,9.98,4G,11.06,150.77,Rural,Desktop,36-50
+2016,Telangana,132,9.41,3G,6.72,170.92,Rural,Desktop,36-50
+2024,UP,146,26.27,4G,13.43,60.8,Urban,Desktop,26-35
+2020,Tamil Nadu,61,20.51,4G,11.43,129.89,Urban,Mobile,50+
+2019,Tamil Nadu,62,24.1,5G,3.46,66.26,Rural,Mobile,26-35
+2020,Delhi,25,8.26,5G,7.3,191.8,Rural,Desktop,50+
+2015,Delhi,86,19.12,3G,13.52,11.52,Urban,Desktop,36-50
+2019,Tamil Nadu,73,17.58,5G,2.61,118.06,Urban,Desktop,26-35
+2023,UP,135,25.15,4G,14.5,37.47,Rural,Desktop,18-25
+2024,Tamil Nadu,91,27.28,5G,10.83,143.88,Rural,Mobile,26-35
+2016,Telangana,53,1.35,3G,10.21,39.3,Urban,Desktop,50+
+2015,UP,119,20.55,5G,5.52,50.9,Urban,Desktop,50+
+2024,Delhi,93,2.5,5G,5.23,101.4,Rural,Desktop,26-35
+2025,Karnataka,89,16.92,3G,14.25,183.39,Urban,Desktop,50+
+2023,Kerala,132,9.34,3G,5.88,46.28,Urban,Desktop,36-50
+2024,Telangana,144,9.9,4G,12.08,33.13,Rural,Desktop,26-35
+2023,Telangana,121,11.24,5G,7.11,153,Rural,Desktop,50+
+2023,Delhi,131,19.02,4G,3.81,102.62,Rural,Mobile,26-35
+2020,Delhi,75,10.69,5G,2.14,182.8,Urban,Desktop,26-35
+2022,Maharashtra,90,22.25,5G,9.08,33.59,Rural,Desktop,18-25
+2025,Telangana,37,12.73,4G,14.69,130.96,Urban,Desktop,26-35
+2015,Maharashtra,85,2.98,5G,6.8,50.41,Rural,Mobile,18-25
+2024,Maharashtra,65,23.73,5G,6.64,35.57,Rural,Mobile,50+
+2018,Kerala,65,9.29,5G,6.47,138.27,Urban,Mobile,18-25
+2015,Maharashtra,102,13.55,3G,8.77,120.77,Urban,Desktop,18-25
+2022,UP,32,20.88,4G,7.73,152.19,Rural,Desktop,18-25
+2015,Tamil Nadu,47,10.64,3G,13.44,65.35,Rural,Desktop,36-50
+2017,Karnataka,90,2.64,4G,8.57,92.35,Urban,Mobile,18-25
+2018,Delhi,21,11.84,4G,8.6,84.07,Rural,Desktop,26-35
+2022,UP,102,28.39,5G,3.8,196.9,Urban,Mobile,18-25
+2020,Karnataka,102,19.61,4G,14.78,61.99,Urban,Mobile,26-35
+2024,Telangana,69,20.47,3G,5.25,62.49,Rural,Mobile,18-25
+2021,Telangana,78,19.34,3G,2.95,74.14,Urban,Mobile,36-50
+2022,Telangana,89,6.77,3G,10.62,115.1,Urban,Mobile,50+
+2016,UP,9,13.13,4G,9.74,54.2,Urban,Desktop,18-25
+2024,UP,6,22.78,3G,7.4,183.48,Rural,Desktop,18-25
+2025,Delhi,26,3.94,4G,7.49,56.81,Urban,Mobile,36-50
+2022,Tamil Nadu,116,9.06,3G,12.21,179.68,Rural,Desktop,18-25
+2017,Maharashtra,61,9.01,3G,4.54,25.18,Rural,Desktop,26-35
+2021,Telangana,70,13.53,4G,12.66,133.03,Rural,Mobile,18-25
+2017,Kerala,78,29.43,3G,10.43,181.86,Urban,Mobile,18-25
+2021,Tamil Nadu,102,2.96,5G,7.45,37.91,Urban,Desktop,50+
+2025,Kerala,148,16.04,4G,7.95,193.82,Rural,Desktop,50+
+2016,Delhi,116,6.2,4G,5.34,93.31,Rural,Desktop,18-25
+2024,Delhi,129,29.15,4G,11.78,189.41,Urban,Desktop,36-50
+2020,Delhi,90,4.29,5G,8.67,136.98,Rural,Mobile,50+
+2017,Karnataka,80,12.7,4G,6.17,63.81,Rural,Desktop,18-25
+2017,Kerala,92,22.4,3G,9.75,41.72,Urban,Mobile,50+
+2023,Tamil Nadu,42,21.43,3G,14.94,64.23,Rural,Mobile,18-25
+2021,Tamil Nadu,63,13.26,3G,7.66,23.14,Urban,Desktop,50+
+2019,UP,142,11.05,4G,13.97,33.05,Urban,Desktop,50+
+2024,UP,103,12.53,3G,6.49,25.41,Rural,Desktop,26-35
+2021,Telangana,67,8.66,4G,2.71,87.47,Urban,Mobile,18-25
+2023,UP,53,6.95,3G,4.66,160.14,Urban,Mobile,18-25
+2015,Delhi,36,15.01,5G,7.44,32.57,Urban,Mobile,18-25
+2021,Tamil Nadu,139,8.79,5G,4.86,30.41,Rural,Mobile,18-25
+2020,Kerala,25,9.34,5G,2,130.47,Rural,Desktop,50+
+2024,Delhi,24,20.05,5G,13.9,43.45,Rural,Mobile,26-35
+2023,Karnataka,131,29.09,4G,12.97,24.03,Urban,Mobile,26-35
+2015,UP,72,18.51,3G,11.65,37.54,Urban,Desktop,36-50
+2018,Delhi,114,3.23,5G,4.18,185.13,Rural,Mobile,18-25
+2023,Delhi,120,3.19,4G,3.56,165.19,Rural,Mobile,36-50
+2018,Karnataka,147,28.59,5G,2.88,74.04,Urban,Desktop,50+
+2024,Maharashtra,124,9.62,5G,11.41,132.89,Rural,Mobile,36-50
+2017,Tamil Nadu,83,3.67,4G,14.07,109.77,Rural,Mobile,18-25
+2023,Kerala,120,18.37,4G,7.6,137.04,Rural,Mobile,26-35
+2016,Telangana,96,19.09,3G,3.55,138.12,Rural,Mobile,26-35
+2018,Maharashtra,18,19.81,3G,8.66,127.6,Rural,Desktop,18-25
+2020,UP,129,8.75,5G,6.53,56.89,Urban,Mobile,50+
+2016,Delhi,62,1.44,5G,6.87,12.61,Rural,Desktop,18-25
+2022,Karnataka,32,28.99,3G,10.08,93.84,Rural,Mobile,50+
+2022,Karnataka,30,8.28,3G,11.34,178.74,Urban,Desktop,26-35
+2015,Tamil Nadu,117,20.6,4G,3.44,116.05,Urban,Desktop,50+
+2017,Maharashtra,70,21.49,3G,2.46,167.32,Urban,Desktop,18-25
+2024,Telangana,135,18.69,3G,14.93,198.37,Urban,Mobile,18-25
+2023,Tamil Nadu,48,10.07,5G,5.03,36.91,Rural,Mobile,18-25
+2019,Delhi,101,8.86,3G,2.7,139.9,Rural,Mobile,50+
+2020,Tamil Nadu,46,18.33,5G,4.47,136.49,Rural,Desktop,50+
+2018,Kerala,10,26.12,3G,2.51,196.09,Rural,Mobile,50+
+2024,Karnataka,27,28.46,4G,7.09,197.19,Urban,Mobile,26-35
+2016,Karnataka,93,4.07,3G,12.43,138.9,Urban,Mobile,36-50
+2025,UP,127,5.49,3G,6.44,52.5,Rural,Mobile,36-50
+2022,UP,55,28.4,3G,7.77,160.72,Rural,Desktop,18-25
+2025,Telangana,15,22.36,5G,10.78,25.87,Rural,Desktop,26-35
+2020,Delhi,16,26.61,4G,8.62,157.24,Rural,Mobile,50+
+2019,Kerala,78,6.88,3G,13.2,182.49,Urban,Mobile,18-25
+2023,Maharashtra,12,18.04,5G,13.26,79.65,Rural,Mobile,26-35
+2015,Tamil Nadu,45,21.33,4G,2.13,127.97,Urban,Desktop,18-25
+2019,Telangana,89,20.72,5G,12.11,88.88,Urban,Mobile,26-35
+2020,Delhi,76,12.84,5G,7.99,90.36,Urban,Desktop,26-35
+2019,UP,59,1.45,4G,14.85,65.52,Urban,Desktop,36-50
+2020,Tamil Nadu,141,17.9,3G,8.28,153.62,Rural,Mobile,18-25
+2020,UP,51,8.34,5G,14.83,187.55,Rural,Mobile,50+
+2021,Tamil Nadu,147,14.06,5G,11.81,188.45,Rural,Mobile,36-50
+2018,Maharashtra,108,28.77,3G,5.23,39.08,Rural,Desktop,36-50
+2025,Delhi,46,12.57,3G,9,175.58,Urban,Desktop,50+
+2022,Tamil Nadu,64,25.35,4G,14.9,148.8,Urban,Mobile,26-35
+2021,Kerala,16,6.47,4G,13.15,54.3,Urban,Desktop,50+
+2023,Telangana,134,20.5,4G,3.27,18.12,Rural,Mobile,18-25
+2021,Karnataka,11,29.33,3G,11.18,57.26,Urban,Mobile,50+
+2017,Kerala,84,3.95,5G,6.49,182.88,Urban,Desktop,26-35
+2017,Kerala,135,1.24,5G,2.09,128.47,Urban,Desktop,50+
+2022,Telangana,113,13.57,4G,7.25,145.61,Urban,Desktop,26-35
+2019,Karnataka,7,3.69,3G,5.05,55.14,Rural,Desktop,26-35
+2018,Kerala,31,22.7,5G,12.65,145.28,Urban,Mobile,18-25
+2022,Tamil Nadu,118,27.52,4G,6.39,10.48,Urban,Mobile,50+
+2020,Tamil Nadu,111,13.59,5G,12.76,78.19,Rural,Mobile,50+
+2016,Tamil Nadu,44,8.5,5G,2.01,127.22,Rural,Desktop,18-25
+2018,Karnataka,133,13.6,3G,6,33.49,Rural,Mobile,26-35
+2025,Kerala,12,21.98,3G,5.14,165.49,Urban,Desktop,50+
+2018,Karnataka,105,1.26,5G,5.04,50.83,Urban,Desktop,18-25
+2020,Tamil Nadu,128,18.09,4G,2.89,132.19,Urban,Desktop,26-35
+2020,Telangana,111,18.79,3G,4.43,84.01,Urban,Mobile,18-25
+2015,Kerala,105,19.49,5G,9.22,121.23,Rural,Desktop,50+
+2022,Kerala,8,8.02,3G,5.79,25.95,Urban,Desktop,18-25
+2020,UP,114,21.71,3G,7.43,8.3,Urban,Desktop,36-50
+2017,UP,23,3.65,3G,6.9,182.37,Rural,Desktop,26-35
+2023,Maharashtra,36,6.78,5G,13.39,57.58,Rural,Desktop,36-50
+2016,Delhi,141,26.45,4G,13.77,164.84,Rural,Desktop,36-50
+2025,UP,16,22.42,4G,8.41,199.87,Urban,Desktop,26-35
+2022,Karnataka,143,1.4,4G,6.29,46.23,Urban,Desktop,26-35
+2024,UP,50,8.2,3G,3.39,56.71,Urban,Desktop,18-25
+2017,Maharashtra,123,7.22,5G,14.39,134.26,Urban,Desktop,26-35
+2019,Kerala,20,8.85,3G,2.78,193.26,Urban,Desktop,36-50
+2020,Maharashtra,133,8.18,4G,5.87,183.58,Rural,Desktop,36-50
+2024,Kerala,67,2.81,4G,5.87,103.06,Rural,Mobile,50+
+2020,Telangana,113,14.31,5G,6.17,160.05,Urban,Mobile,26-35
+2018,Telangana,123,22.25,3G,4.14,31.47,Urban,Desktop,36-50
+2017,Kerala,25,18.6,4G,12.18,195.6,Urban,Desktop,50+
+2018,Delhi,17,20.51,5G,3.59,193.05,Urban,Desktop,50+
+2015,UP,8,3.35,3G,10.25,36.93,Urban,Mobile,18-25
+2018,Karnataka,106,28.59,3G,3.61,63.39,Rural,Mobile,36-50
+2015,Karnataka,63,25.32,4G,2.92,24.53,Rural,Mobile,18-25
+2015,Tamil Nadu,132,24.35,4G,13.82,57.98,Rural,Desktop,36-50
+2024,Kerala,31,24.87,3G,4.47,164.11,Urban,Desktop,18-25
+2020,Karnataka,73,28.05,3G,12.68,78.77,Urban,Desktop,18-25
+2019,Delhi,29,16.78,4G,9.08,22.24,Rural,Desktop,26-35
+2025,Kerala,135,6.81,3G,3.01,71.73,Rural,Mobile,18-25
+2018,Delhi,101,18.89,4G,14.42,196.37,Urban,Desktop,26-35
+2025,Karnataka,29,22.54,3G,5.21,127.79,Rural,Mobile,50+
+2017,Karnataka,130,22.4,4G,13.18,86.15,Rural,Mobile,36-50
+2015,Tamil Nadu,137,16.12,5G,4.19,37.48,Urban,Desktop,50+
+2020,Karnataka,13,2.99,4G,13.1,197.3,Rural,Mobile,36-50
+2016,Kerala,120,11.76,4G,2.17,165.07,Rural,Mobile,50+
+2022,Telangana,138,27.7,5G,8.65,59.89,Rural,Mobile,36-50
+2024,Kerala,64,17.95,3G,12,18.66,Urban,Mobile,18-25
+2019,Kerala,125,16.61,5G,14.15,16.04,Rural,Desktop,36-50
+2021,Tamil Nadu,143,8.8,4G,13.82,28.47,Rural,Desktop,36-50
+2024,Tamil Nadu,112,11.69,3G,12.66,118.25,Rural,Mobile,50+
+2016,Karnataka,112,26.97,5G,13.55,186.11,Urban,Desktop,50+
+2022,Maharashtra,135,20.33,3G,4.59,101.86,Urban,Mobile,50+
+2016,Maharashtra,80,23.83,3G,5.69,169.37,Rural,Desktop,26-35
+2018,Tamil Nadu,34,14.18,5G,5.76,91.95,Urban,Desktop,26-35
+2015,Karnataka,25,19.28,3G,6.9,143.17,Rural,Desktop,36-50
+2019,Maharashtra,38,8.2,5G,7.11,147.72,Urban,Desktop,36-50
+2023,Karnataka,45,21.46,4G,9.08,38.92,Urban,Desktop,18-25
+2015,Karnataka,55,13.4,3G,4.08,75.44,Rural,Mobile,18-25
+2023,Karnataka,86,13.83,4G,10.99,129.27,Rural,Desktop,36-50
+2025,UP,62,19.83,4G,4.18,18.79,Rural,Mobile,26-35
+2022,Kerala,79,28.15,3G,6.03,75.5,Urban,Mobile,36-50
+2020,Karnataka,27,2.86,5G,8.54,109.29,Rural,Desktop,18-25
+2021,UP,132,24.92,3G,12.35,199.26,Urban,Mobile,26-35
+2017,Tamil Nadu,21,9.48,4G,11.61,97.53,Urban,Desktop,26-35
+2015,Maharashtra,73,13.87,4G,10.39,164.13,Rural,Mobile,18-25
+2019,Kerala,112,1.64,5G,4.03,89.25,Urban,Mobile,36-50
+2016,Telangana,143,9.73,3G,9.11,160.3,Rural,Desktop,50+
+2019,Maharashtra,98,15.58,4G,3.14,121.11,Urban,Desktop,36-50
+2022,Kerala,19,2.63,4G,6.91,177.89,Rural,Desktop,36-50
+2025,Telangana,95,15.24,4G,7.38,85.13,Urban,Desktop,18-25
+2023,Maharashtra,37,27.89,5G,2.52,122.84,Urban,Mobile,26-35
+2016,Kerala,129,4.06,4G,5.56,127.85,Rural,Desktop,18-25
+2017,Maharashtra,20,23.17,4G,14.42,86.39,Urban,Mobile,36-50
+2017,Maharashtra,70,12.88,3G,14.4,33.14,Rural,Mobile,50+
+2015,Telangana,51,20,3G,6.58,23.24,Urban,Mobile,50+
+2022,Maharashtra,128,8.55,4G,2.56,8.25,Urban,Mobile,50+
+2020,Maharashtra,5,5.63,4G,4.33,175.34,Urban,Mobile,18-25
+2022,Telangana,91,5.65,3G,7.1,51.11,Rural,Mobile,26-35
+2025,Tamil Nadu,132,3.04,5G,14.32,46.24,Rural,Desktop,18-25
+2023,Karnataka,71,6.38,5G,3.84,148.53,Rural,Mobile,50+
+2019,Delhi,8,20.26,5G,11.93,67.4,Rural,Mobile,36-50
+2017,UP,51,26.57,5G,3.41,103.68,Rural,Mobile,26-35
+2019,Delhi,42,24.61,5G,14.76,36.69,Urban,Desktop,18-25
+2019,Delhi,147,20.87,5G,6.96,192.15,Urban,Desktop,18-25
+2019,Kerala,25,4.2,5G,12.08,171.06,Rural,Mobile,26-35
+2017,Karnataka,61,9.39,5G,6.45,173.44,Urban,Desktop,26-35
+2025,Kerala,121,9.98,3G,10.16,84.32,Urban,Mobile,36-50
+2024,Karnataka,50,8.25,5G,4.5,153.66,Urban,Desktop,26-35
+2018,Telangana,146,15.94,5G,3.9,33.06,Urban,Mobile,36-50
+2023,Telangana,149,16.53,5G,14.19,6.68,Rural,Desktop,50+
+2024,Karnataka,43,11.35,4G,13.93,8.89,Urban,Desktop,50+
+2023,Maharashtra,141,11.26,3G,13.54,119.39,Rural,Desktop,18-25
+2016,Tamil Nadu,103,25.03,3G,10.13,93.8,Rural,Mobile,50+
+2022,Maharashtra,81,23.89,3G,12.51,106.01,Urban,Mobile,50+
+2022,Tamil Nadu,119,9.93,5G,2.9,6.46,Rural,Mobile,36-50
