@@ -14,8 +14,8 @@ Objectives
   * Compare usage across different regions and networks
   * Identify key factors influencing user behavior
   * Generate insights for better decision-making
-  * 
-Dataset Details
+    
+Dataset Details:
 📌 Rows: 1000
 📌 Columns: 10
  
@@ -28,7 +28,7 @@ Dataset Details
     * Cost per GB (₹)
     * Average Speed (Mbps)
     * Urban/Rural
-    *  Device Type
+    * Device Type
     * Age Group
 
 Technologies Used
@@ -68,6 +68,7 @@ Key Insights
   * Lower data cost increases internet consumption 
 
 Conclusion:
+
 The analysis shows that India is moving towards a digitally connected future. Affordable internet, improved network technologies, and increasing smartphone usage are key drivers of this growth.
   
   The insights from this project can help:
